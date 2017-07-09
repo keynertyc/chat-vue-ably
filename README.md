@@ -1,6 +1,6 @@
 # chat-vue-ably
 
-> A Basic Vue.js project using VueJS, Vuex, Ably (PubSub Realtime), WebPack
+> A Basic Vue.js project using VueJS, Vuex, VueRouter, Ably (PubSub Realtime), WebPack
 
 ## Build Setup
 
